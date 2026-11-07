@@ -6,6 +6,11 @@ và dự án tuân thủ [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-07
+
+### Added
+- `search_by_category()`: Hỗ trợ tìm kiếm DVD theo thể loại không phân biệt hoa/thường.
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
