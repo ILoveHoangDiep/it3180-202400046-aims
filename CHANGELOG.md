@@ -11,6 +11,11 @@ và dự án tuân thủ [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 ### Added
 - `search_by_category()`: Hỗ trợ tìm kiếm DVD theo thể loại không phân biệt hoa/thường.
 
+## [1.0.1] - 2026-11-07
+
+### Fixed
+- Sửa lỗi `search_by_title` không phân biệt hoa/thường (`Refs #20`).
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
