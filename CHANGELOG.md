@@ -6,6 +6,11 @@ và dự án tuân thủ [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-07
+
+### Fixed
+- Sửa lỗi `search_by_title` không phân biệt hoa/thường (`Refs #20`).
+
 ## [1.0.0] - 2026-11-07
 
 ### Added
